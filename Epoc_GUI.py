@@ -98,7 +98,7 @@ class Plotter():
         self.ptr1=0
         self.Fs=128
         self.N=tw_sec*self.Fs
-        # array with reference shape for zeropad in line 146
+        # array with reference shape for zeropad in line 144
         self.b=np.zeros(shape=(self.channels,next_pow(self.N))) 
         if show:
             self.win = pg.GraphicsWindow()
