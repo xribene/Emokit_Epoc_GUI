@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun 25 04:50:40 2017
-
 @author: Christodoulos Benetatos - xribene
 """
 ###############################################################################
