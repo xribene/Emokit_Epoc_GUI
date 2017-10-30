@@ -28,6 +28,7 @@ In the PSD graphs for every sensor there is an indicator of the peak frequency i
 
 Finally a butterworth bandpass filter is used to remove DC offset and 50Hz(or 60Hz) noise
 
+![alt text](https://imgur.com/4ZdgbWB)
 
 ## Authors
 
