@@ -28,7 +28,14 @@ In the PSD graphs for every sensor there is an indicator of the peak frequency i
 
 Finally a butterworth bandpass filter is used to remove DC offset and 50Hz(or 60Hz) noise
 
-![alt text](https://imgur.com/4ZdgbWB)
+![alt text](https://i.imgur.com/4ZdgbWB.png)
+Using O1 and O2 sensors. O1's quality is 589 so the curve color is close to pure red, while O2's quality is closer to green (0,255,0).
+
+![alt text](https://i.imgur.com/hG0S4co.png)
+In this screenshot P7 is also added, however I have not connect its pad so the quality is 11, and also the PSD is very small (check the vertical PSD axes)
+
+![alt text](https://i.imgur.com/InsIMgC.png)
+Here is a screenshot while I had closed eyes, resulting strong alpha waves around 10.5Hz. 
 
 ## Authors
 
