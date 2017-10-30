@@ -1,13 +1,13 @@
 # Emokit_Epoc_GUI
 
-A GUI using PyQt and Emokit library to plot PSD and raw data in real time from Emotiv Epoc
+A GUI using PyQtGraph and Emokit library to plot PSD and raw data in real time from Emotiv Epoc
 
 ### Prerequisites
 
 ```
 Python 2.7
 Emokit python library - https://github.com/openyou/emokit
-PyQt4
+PyQt4.8+
 pyqtgraph
 scipy
 ```
